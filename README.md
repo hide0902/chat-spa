@@ -1,4 +1,4 @@
-# chat-spaceのDB設計
+# chat-spaceDB設計
 
 ## messagesテーブル
 Column Type Options
